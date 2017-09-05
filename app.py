@@ -11,7 +11,6 @@ from flask_mqtt import Mqtt
 from flask_socketio import SocketIO
 from flask_bootstrap import Bootstrap
 from flask_sqlalchemy import SQLAlchemy
-import json
 
 
 eventlet.monkey_patch()
